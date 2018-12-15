@@ -1,7 +1,7 @@
 //
 //  Created by Liu Jinyong on 17/4/5.
 //  Copyright © 2016年 Liu Jinyong. All rights reserved.
-//
+// .  
 //  @flow
 //  Github:
 //  https://github.com/huanxsd/react-native-refresh-list-view
